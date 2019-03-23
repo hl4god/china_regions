@@ -12,19 +12,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wecatch/china_regions.git"
+    "url": "git+https://github.com/hl4god/china_regions.git"
   },
   "keywords": [
     "china",
     "regions",
     "datasource"
   ],
-  "author": "wecatch.me",
+  "author": "Holly",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wecatch/china_regions/issues"
+    "url": "https://github.com/hl4god/china_regions/issues"
   },
-  "homepage": "https://github.com/wecatch/china_regions#readme",
+  "homepage": "https://github.com/hl4god/china_regions#readme",
   "devDependencies": {
     "bluebird": "^3.5.3",
     "iconv-lite": "^0.4.24",
@@ -35,5 +35,8 @@
     "request-promise": "^4.2.2",
     "system-sleep": "^1.3.6",
     "tracer": "^0.9.8"
+  },
+  "dependencies": {
+    "pinyinlite": "^1.2.1"
   }
 }
